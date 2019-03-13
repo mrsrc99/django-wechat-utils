@@ -91,7 +91,7 @@ Superuser created successfully.
 * login
 ```python
 import requests
-url = 'http:127.0.0.1:8000/wxuser/'
+url = 'http://127.0.0.1:8000/wxuser/'
 headers = {
 	'Content-Type':'application/json',
 }
@@ -105,7 +105,7 @@ print response.json() #token
 * auth
 ```python
 import requests
-url = 'http:127.0.0.1:8000/wxuser/'
+url = 'http://127.0.0.1:8000/wxuser/'
 headers = {
 	'Content-Type':'application/json',
 	'token':'xxx',
@@ -117,7 +117,7 @@ print response.json()
 * register
 ```python
 import requests
-url = 'http:127.0.0.1:8000/wxuser/'
+url = 'http://127.0.0.1:8000/wxuser/'
 headers = {
 	'Content-Type':'application/json',
 	'token':'xxx',
