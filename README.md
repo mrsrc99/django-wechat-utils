@@ -81,9 +81,12 @@ Superuser created successfully.
 
 管理员界面效果
 --------------------
-* 登录页面:   ![file-list](https://dogbelt.cn/static/wyy/django-admin-login.jpg)
-* 管理首页: ![file-list](https://dogbelt.cn/static/wyy/django-admin-index.jpg)
-* 接口页面: ![file-list](https://dogbelt.cn/static/wyy/django-api-index.jpg)
+* 登录页面:  
+![file-list](https://dogbelt.cn/static/wyy/django-admin-login.jpg)
+* 管理首页:  
+![file-list](https://dogbelt.cn/static/wyy/django-admin-index.jpg)
+* 接口页面:  
+![file-list](https://dogbelt.cn/static/wyy/django-api-index.jpg)
 
 
 接口使用
