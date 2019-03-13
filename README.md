@@ -3,7 +3,7 @@
 django-wechat-utils
 ====================
 * v0.0.1
-* flask框架下也有同样功能的第三方库:
+* flask框架下也有同样功能的第三方库: flask-wechat-utils
 
 quickstart
 --------------------
