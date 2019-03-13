@@ -1,6 +1,0 @@
-requests==2.9.1
-cryptography
-setuptools==20.7.0
-Django==1.11.17
-itsdangerous==0.24
-djangorestframework==3.9.2
