@@ -3,6 +3,7 @@
 django-wechat-utils
 ====================
 * v0.0.1
+* 基于python/django/rest-framework/sqlsite
 * flask框架下也有同样功能的第三方库: flask-wechat-utils
 
 quickstart
