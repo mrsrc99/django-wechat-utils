@@ -10,8 +10,8 @@ long_description = 'https://github.com/suckmybigdick/django-wechat-utils'
 setuptools.setup(
 	name = "django-wechat-utils",
 	version="0.0.1",
-	auth="Huang Xu Hui",
-	author_email="13250270761@163.com",
+	auth="awam009",
+	author_email="saiawam@163.com",
 	description="django-wechat-utils for wechat-app-user's login/register/auth, and message_template",
 	long_description=long_description,
 	long_description_content_type="text/markdown",
